@@ -121,4 +121,5 @@ elif player_score < dealer_score:
 else:
     print("Tie. Good game.")
 
+time.sleep(1)
 quit()
